@@ -1,5 +1,6 @@
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\TextTime.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\TimeText.java
+F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\HttpLogParser.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\NCDCStationParser.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\TimeVolume.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\TextPair.java
@@ -7,3 +8,4 @@ F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\WikiPageViewParser.
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\NCDCParser.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\StockExchangeParser.java
 F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\TimeInt.java
+F:\Spring\workspace\parsers\src\main\java\com\krishna\hadoop\LogWritable.java
